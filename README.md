@@ -1,2 +1,29 @@
-# Contact-Manager
-A modern Contact Manager desktop application built with C++ and Qt, featuring contact management, search, validation, file storage, and a responsive dark-themed GUI.
+# Contact Manager
+
+A modern desktop Contact Manager built with C++ and Qt.
+
+## Features
+- Add contacts
+- Edit contacts
+- Delete contacts
+- Search contacts
+- Contact categorization
+- File storage
+
+## Technologies
+- C++
+- Qt 6
+- CMake
+- MSYS2 MinGW
+- VS Code
+
+## Screenshots
+
+(Add screenshots here)
+
+## Build
+
+mkdir build
+cd build
+cmake ..
+cmake --build .
