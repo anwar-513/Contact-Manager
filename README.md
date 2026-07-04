@@ -17,9 +17,6 @@ A modern desktop Contact Manager built with C++ and Qt.
 - MSYS2 MinGW
 - VS Code
 
-## Screenshots
-
-(Add screenshots here)
 
 ## Build
 
